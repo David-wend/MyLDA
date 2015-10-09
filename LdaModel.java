@@ -1,10 +1,6 @@
 package liuyang.nlp.lda.main;
 
-/**Class for Lda model
- * @author yangliu
- * @blog http://blog.csdn.net/yangliuy
- * @mail yangliuyx@gmail.com
- */
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
